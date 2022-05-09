@@ -23,4 +23,4 @@ As rotas de ônibus na grande São Paulo mostram claramente que há uma grande d
 ## Autores
 - **Giovanna Mendes** - [giovannagiannini24](https://github.com/giovannagiannini24)
 - **Kawan Gonçalves** - [kawan-goncalves](https://github.com/kawan-goncalves)
-- **Vinicius de Almeida** - [VinyProgramador](https://github.com/VinyProgramador)
+- **Vinicius de Almeida** - [VinyProgramador](https://github.com/VinyProgramador) 
